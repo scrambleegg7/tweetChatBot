@@ -2,3 +2,7 @@
 /tweet
 /list_corpus
 /corpus
+/save
+*.tar
+*.tar.gz
+/.ipynb_checkpoints
